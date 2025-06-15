@@ -14,4 +14,4 @@ I'm learning Python in public by coding every day for 100 days.
 | 4   | Simple calculator          |  Functions, return, conditionals, user input |
 | 5   | Pet Tracker App            | Lists, sets, tuples|
 | 6   | Dictionaries & Quiz App              | Built a mini quiz app using key-value pairs, scoring, and logic flow.|
-
+| 7   |Habit Tracker App   | Lists, loops, conditionals, input handling, menu systems, function separation |
