@@ -16,4 +16,5 @@ I'm learning Python in public by coding every day for 100 days.
 | 6   | Dictionaries & Quiz App              | Built a mini quiz app using key-value pairs, scoring, and logic flow.|
 | 7   |Habit Tracker App   | Lists, loops, conditionals, input handling, menu systems, function separation |
 |8|	File Handling & Projects	|Learned with open(), saving to .txt, and built an expense tracker app.|
+| 9   | Student Gradebook App | Dictionaries, nested data, input handling, averages, loops, error handling  |
 
