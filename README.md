@@ -18,5 +18,5 @@ I'm learning Python in public by coding every day for 100 days.
 |8|	File Handling & Projects	|Learned with open(), saving to .txt, and built an expense tracker app.|
 | 9   | Student Gradebook App | Dictionaries, nested data, input handling, averages, loops, error handling  |
 | 10   | Unit Converter |Lists, functions, loops, error handling  |
-| 11   | Password generator |Built in modules, functions |
+| 11   | Data Visualization(intro) |matplotlib, Lists & dictionaries, Loops & input handling |
 
