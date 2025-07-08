@@ -1,39 +1,3 @@
-'''import matplotlib.pyplot as plt
-
-expenses=[
-    {"item": "Rent", "amount": 15000},
-    {"item": "food", "amount":6000},
-    {"item": "Transport", "amount":5000},
-    {"item": "internet", "amount":2000}
-    
-]
-
-def show_barchart():
-    items=[expense["item"] for expense in expenses]
-    amount=[expense["amount"] for expense in expenses]
-
-    plt.figure (figsize=(8,5))
-    plt.bar(items,amount,color='skyblue')
-    plt.title("Monthly Expenses")
-    plt.xlabel("Category")
-    plt.ylabel("Amount(KSH)")
-    plt.tight_layout()
-    plt.show()
-
-def show_pie_chart():
-    items = [expense["item"] for expense in expenses]
-    amounts = [expense["amount"] for expense in expenses]
-
-    plt.figure(figsize=(6, 6))
-    plt.pie(amounts, labels=items, autopct='%1.1f%%', startangle=140)
-    plt.title("Expense Distribution")
-    plt.tight_layout()
-    plt.show()
-
-
-show_barchart()
-show_pie_chart()'''
-
 import matplotlib.pyplot as plt
 
 expenses=[]
